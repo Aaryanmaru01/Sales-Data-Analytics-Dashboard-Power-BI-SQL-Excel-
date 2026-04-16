@@ -6,7 +6,7 @@
  #### 🛢️ SQL → Data analysis queries
  #### 📊 Power BI Dashboard → Data visualization
 
-### 📌 Key Features
+## 📌 Key Features
 #### Interactive dashboard with filters (Year, Region, Item Type)
 #### KPI Cards for quick insights:
 #### Total Profit 💰
