@@ -1,6 +1,6 @@
 # Sales-Data-Analytics-Dashboard-Power-BI-SQL-Excel-
 
-###🧩 Project Components
+### 🧩 Project Components
 
  #### 📂 Excel File → Raw dataset
  #### 🛢️ SQL → Data analysis queries
@@ -58,5 +58,3 @@
 ## 👨‍💻 Author
 
 #### RK Global / Aaryan Maru
-
-’re ou
