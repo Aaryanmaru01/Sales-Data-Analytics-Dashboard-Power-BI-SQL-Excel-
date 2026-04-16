@@ -48,7 +48,7 @@
 
 📸 Dashboard Preview
 
-### Link- 
+### Link- https://github.com/Aaryanmaru01/Sales-Data-Analytics-Dashboard-Power-BI-SQL-Excel-/blob/main/RK%20(Sales_Dashboard).BI.png
 
 ## 📂 Project Files
 #### Sales_Data.xlsx
