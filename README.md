@@ -2,7 +2,7 @@
 
 ###🧩 Project Components
 
- 📂 Excel File → Raw dataset
- 🛢️ SQL → Data analysis queries
- 📊 Power BI Dashboard → Data visualization
+ #### 📂 Excel File → Raw dataset
+ #### 🛢️ SQL → Data analysis queries
+ #### 📊 Power BI Dashboard → Data visualization
 
